@@ -5,6 +5,8 @@
 
 /* 
 字符串排序并去掉重复的字符
+github地址
+https://github.com/fenwii/72program_C.git 
  
 @author 72编程
 微信公众号：72编程 
