@@ -20,14 +20,14 @@ int main(int argc, char *argv[])
 	
 	for(i=0; i<n-1;i++)
 	{
-		k=i;
-		for(j=i+1;j<n;j++)
+		k=i; 
+		for(j=i+1;j<n;j++)//从第2个元素开始遇到比它大的就交换 
 		{
-			if(a[j]<a[k])
+			if(a[j]<a[k])//小于就交换下标 
 			{
 				k=j;
 			}
-			if(i!=k)
+			if(i!=k)//不相等，则交换值 
 			{
 				t=a[i];
 				a[i]=a[k];
@@ -36,7 +36,7 @@ int main(int argc, char *argv[])
 		}
 	}
 	
-	for(i=0;i<n;i++)
+	for(i=0;i<n;i++)//打印排序后的值 
 	{
 		printf("%4d",a[i]);
 	} 
