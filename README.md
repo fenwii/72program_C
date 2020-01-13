@@ -3,15 +3,15 @@
 
 微信公众号：
 72编程
-![72编程公众号](images/72gongzhonghao.png)
+![72编程公众号](/images/72gongzhonghao.png)
 
 小程序：
 72编程
-![72编程小程序](images/72smallapp.jpg)
+![72编程小程序](/images/72smallapp.jpg)
 
 知识星球：
 72编程
-![72编程星球](images/72earth.png)
+![72编程星球](/images/72earth.png)
 
 
 
