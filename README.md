@@ -10,7 +10,7 @@
 
 知识星球：
 72编程
-![72编程星球](https://github.com/fenwii/72program_C/blob/master/images/72earth.png)
+![72编程星球](images/72earth.png)
 
 
 
