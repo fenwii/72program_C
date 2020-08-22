@@ -4,7 +4,7 @@
 微信公众号：
 72编程
 ![72编程公众号](https://github.com/fenwii/72program_C/blob/master/images/72gongzhonghao.png)
- [72编程公众号] (/images/72gongzhonghao.png)
+ ![72编程公众号] (/images/72gongzhonghao.png)
 小程序：
 72编程
 ![72编程小程序](https://github.com/fenwii/72program_C/blob/master/images/72smallapp.jpg)
