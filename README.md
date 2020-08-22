@@ -6,8 +6,7 @@
 ![72编程公众号](https://github.com/fenwii/72program_C/blob/master/images/72gongzhonghao.png)
 小程序：
 72编程
-![72编程小程序](> ||githubusercontent.com/images/72smallapp.jpg)
-https://raw.githubusercontent.com/fenwii/72program_C/master/images/72earth.png
+![72编程小程序](https://raw.githubusercontent.com/fenwii/72program_C/master/images/72smallapp.jpg)
 知识星球：
 C语言C++汇编研究中心
 ![C语言C++汇编研究中心星球](https://raw.githubusercontent.com/fenwii/72program_C/master/images/72earth.png)
