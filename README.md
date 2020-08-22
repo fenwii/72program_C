@@ -1,13 +1,8 @@
-# 72编程-72program
-72编程学校专注于STEAM编程教育，致力于成为中国的42编程学校，让中国技术创新引领全球。
+# C语言C++汇编研究中心
+致力用C，C++，汇编语言学习
 
-微信公众号：
-72编程
-![72编程公众号](https://github.com/fenwii/72program_C/blob/master/images/72gongzhonghao.png)
-小程序：
-72编程
-![72编程小程序](https://raw.githubusercontent.com/fenwii/72program_C/master/images/72smallapp.jpg)
-知识星球：
-C语言C++汇编研究中心
-![C语言C++汇编研究中心星球](https://raw.githubusercontent.com/fenwii/72program_C/master/images/72earth.png)
-
+联系方式
+1，在知识星球搜索
+知识星球：C语言C++汇编研究中心
+2，直接访问星球地址
+知识星球地址：https://t.zsxq.com/jeYVJuj
